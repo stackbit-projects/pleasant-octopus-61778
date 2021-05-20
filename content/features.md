@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     template: hero_section
-    title: Explore Features
+    title: Mon super site
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
